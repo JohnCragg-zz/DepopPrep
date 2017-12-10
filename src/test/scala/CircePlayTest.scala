@@ -3,10 +3,7 @@ import java.time.Instant
 import NotificationTransformer.toNotificationContainer
 import io.circe._
 import io.circe.generic.semiauto._
-import io.circe.syntax._
-import io.circe.parser._
 import org.scalatest.{FunSuite, Matchers}
-import io.circe.optics.JsonPath._
 
 class CircePlayTest extends FunSuite with Matchers {
 
