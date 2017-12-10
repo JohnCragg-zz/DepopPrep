@@ -1,5 +1,6 @@
 import java.time.Instant
 
+import NotificationTransformer.toNotificationContainer
 import io.circe._
 import io.circe.generic.semiauto._
 import io.circe.syntax._
@@ -29,8 +30,8 @@ class CircePlayTest extends FunSuite with Matchers {
     "so that I can store it into the database in a generic way") {
     implicit val likeEncoder: ObjectEncoder[Like] = deriveEncoder
     implicit val commentEncoder: ObjectEncoder[Comment] = deriveEncoder
-    NotificationTransformer.toNotificationContainer(likeEventType, aLike) shouldEqual  NotificationContainer(userId, Option(productId), likeDatabaseContent)
-    NotificationTransformer.toNotificationContainer(commentEventType, aComment) shouldEqual NotificationContainer(userId, Option(productId), commentDatabaseContent)
+    toNotificationContainer(likeEventType, aLike) shouldEqual  NotificationContainer(userId, Option(productId), likeDatabaseContent)
+    toNotificationContainer(commentEventType, aComment) shouldEqual NotificationContainer(userId, Option(productId), commentDatabaseContent)
   }
 
   def testAnyNotification[A <: Notification](raw: String)(implicit decoder: Decoder[A]) = {
@@ -38,8 +39,6 @@ class CircePlayTest extends FunSuite with Matchers {
     val toEvent = event.as[A]
     (eventType, toEvent.getOrElse(""))
   }
-
-
 }
 
 object CircePlayTestData {

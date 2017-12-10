@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3406f55-03ee-446f-8369-6200ab8dfbdf" name="Default" comment="" />
+    <list default="true" id="b3406f55-03ee-446f-8369-6200ab8dfbdf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/UsingCursors.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/UsingCursorsTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$$anon$3.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$$anon$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$$anon$4.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$$anon$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$anon$macro$9$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1$anon$macro$9$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$12$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$$anon$5.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$$anon$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$$anon$6.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$$anon$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$anon$macro$26$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1$anon$macro$26$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$31$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$$anon$7.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$$anon$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$anon$macro$41$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1$anon$macro$41$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$47$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$$anon$2.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$$anon$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$$anon$8.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$$anon$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$anon$macro$61$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1$anon$macro$61$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest$anon$lazy$macro$71$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTestData$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/CircePlayTestData$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/CircePlayTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/CircePlayTest.scala" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -46,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircePlayTest.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CircePlayTest.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/CircePlayTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+            <state relative-caret-position="292">
+              <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="61" selection-end-column="21" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -58,13 +81,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotificationContainer.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/NotificationContainer.scala">
+      <file leaf-file-name="UsingCursors.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/UsingCursors.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="75" lean-forward="false" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+            <state relative-caret-position="288">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingCursorsTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/UsingCursorsTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#70#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +110,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Worksheet" />
         <option value="ScalaTest Class" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -85,6 +120,9 @@
       <find>e</find>
       <find>executed</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -101,15 +139,19 @@
         <option value="$PROJECT_DIR$/src/main/scala/Notification.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/NotificationContainer.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/CircePlayTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/test.sc" />
+        <option value="$PROJECT_DIR$/src/test/scala/UsingCursorsTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/UsingCursors.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2218" />
-    <option name="y" value="54" />
-    <option name="width" value="1237" />
+    <option name="x" value="960" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -184,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way">
+  <component name="RunManager" selected="ScalaTest.UsingCursorsTest">
     <configuration name="CircePlayTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="depopprep" />
@@ -239,17 +281,17 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="CircePlayTest.can extract the notification information and store it by eventType" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="UsingCursorsTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="depopprep" />
-      <setting name="path" value="CircePlayTest" />
+      <setting name="path" value="UsingCursorsTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="can extract the notification information and store it by eventType" />
-      <setting name="testKind" value="Test name" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
       <setting name="useUiWithSbt" value="false" />
@@ -257,16 +299,16 @@
       <testRegexps />
       <envs />
     </configuration>
-    <configuration name="CircePlayTest.can parse valid json and store it in a case class" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="UsingCursorsTest.can surface all the information from the data object and remove unwanted fields" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="depopprep" />
-      <setting name="path" value="CircePlayTest" />
+      <setting name="path" value="UsingCursorsTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="can parse valid json and store it in a case class" />
+      <setting name="testName" value="can surface all the information from the data object and remove unwanted fields" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <setting name="useSbt" value="false" />
@@ -357,19 +399,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.can parse valid json and store it in a case class" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.can extract the notification information and store it by eventType" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a json representation of notification of any type,I can serialize the json into a tuple of eventType and a case class" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a json representation of notification of any type,I can serialize the json into a tuple of eventType and a case class" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.UsingCursorsTest.can surface all the information from the data object and remove unwanted fields" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.UsingCursorsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a json representation of notification of any type,I can serialize the json into a tuple of eventType and a case class" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.can extract the notification information and store it by eventType" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.can parse valid json and store it in a case class" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.UsingCursorsTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.UsingCursorsTest.can surface all the information from the data object and remove unwanted fields" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest.Given a json representation of notification of any type,I can serialize the json into a tuple of eventType and a case class" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.CircePlayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -420,12 +462,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CircePlayTest_Given_a_json_representation_of_notification_of_any_type,I_can_serialize_the_json_into_a_tuple_of_eventType_and_a_case_class - 2017.12.09 at 16h 12m 15s.xml">
-      <configuration name="CircePlayTest.Given a json representation of notification of any type,I can serialize the json into a tuple of eventType and a case class" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="CircePlayTest_Given_a_notification_of_any_type_I_can_transform_the_json_into_a_notification_containerso_that_I_can_store_it_into_the_database_in_a_generic_way - 2017.12.09 at 16h 09m 06s.xml">
-      <configuration name="CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="CircePlayTest_Given_a_notification_of_any_type_I_can_transform_the_json_into_a_notification_containerso_that_I_can_store_it_into_the_database_in_a_generic_way - 2017.12.09 at 16h 12m 28s.xml">
       <configuration name="CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -450,27 +486,33 @@
     <history-entry file="CircePlayTest_Given_a_notification_of_any_type_I_can_transform_the_json_into_a_notification_containerso_that_I_can_store_it_into_the_database_in_a_generic_way - 2017.12.09 at 16h 29m 51s.xml">
       <configuration name="CircePlayTest.Given a notification of any type I can transform the json into a notification containerso that I can store it into the database in a generic way" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="UsingCursorsTest - 2017.12.10 at 12h 29m 16s.xml">
+      <configuration name="UsingCursorsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="UsingCursorsTest - 2017.12.10 at 12h 31m 06s.xml">
+      <configuration name="UsingCursorsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892057" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8818737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.88179916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24427083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4895616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -600,12 +642,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.8.0-sources.jar!/io/circe/ACursor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.circe/circe-core_2.12/srcs/circe-core_2.12-0.8.0-sources.jar!/io/circe/JsonObject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar!/cats/syntax/OptionIdOps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="25" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/CircePlayTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        <state relative-caret-position="292">
+          <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="61" selection-end-column="21" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/UsingCursorsTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UsingCursors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
